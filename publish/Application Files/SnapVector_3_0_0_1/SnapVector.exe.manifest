@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SnapVector.exe" version="3.0.0.1" publicKeyToken="72d70b17988c32b2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SnapVector" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SnapVector.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SnapVector.exe" size="18888">
+      <assemblyIdentity name="SnapVector" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>w00RqWajptt5CsfPe2lU53+NBFafcFCmtiosPTpct+Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SnapVector.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=YIZHOU-X61\Yizhou" issuerKeyHash="a2efa8b9811812b95435833766ac1aea243124a9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1PJ0KMtQSK2GRd3c+/F3ZIzSqxLZk3QRhb0CHNz4U7k=</DigestValue></Reference></SignedInfo><SignatureValue>MXNlFFZ+yCk/oTtnyNcqp0NM0NIHuElW9Zusq95ybZIkQliuI3SS7zpcze8KPu3nDmwt4xsQCBhOY5xtTcmIcmQZjAcoKLk2y2kty7/o9O9fkSTCBVEcMRxgw3booOE73+YTewGKLytF2gjaqigCpFC8nW9Lk8Vdcz8Nsm+Knr8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oS+zrcsK7iVnQRlaDE/qNC2SUDqnp0xuafOTv576qSv8JsbFxeP+khDPnP+Bpoli/ui35es2xOKv/oC8YFCQ0YbiwjkCzK0L03yBwiAW5W9K93EMQHrTI80GIC/ll/qhBuvDJDAUE2gOwQDOeq73zI60UAqo2IPg9LBOUY8ozEk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b953f8dc1c02bd85117493d912abd28c6477f1fbdcdd4586ad4850cb2874f2d4" Description="" Url=""><as:assemblyIdentity name="SnapVector.exe" version="3.0.0.1" publicKeyToken="72d70b17988c32b2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=YIZHOU-X61\Yizhou</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hpTIdaJHdFgYHZ8RsB3l7DzaTQjlaJ0aonvFTqPn0GE=</DigestValue></Reference></SignedInfo><SignatureValue>cS7EFaWxrzvdit09sFJLpONAo8mmclFdGhSjUYlCQpud89KEg4ppUEUMUnak0hADhb7Gpka5wPryJLk1WeJPUaH6NNOWPRFPIaqn/5577jQc+HmVlIEClXAYSIPMZ90eQhmkEAhsLKj3N4dsahKCeBKmcHhF67kusjXN6y44vtM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oS+zrcsK7iVnQRlaDE/qNC2SUDqnp0xuafOTv576qSv8JsbFxeP+khDPnP+Bpoli/ui35es2xOKv/oC8YFCQ0YbiwjkCzK0L03yBwiAW5W9K93EMQHrTI80GIC/ll/qhBuvDJDAUE2gOwQDOeq73zI60UAqo2IPg9LBOUY8ozEk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQRz17cyHlsrRHwImm+s1X1TANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAWQBJAFoASABPAFUALQBYADYAMQBcAFkAaQB6AGgAbwB1MB4XDTE2MDMyMTAzMjg0MloXDTE3MDMyMTA5Mjg0MlowLTErMCkGA1UEAx4iAFkASQBaAEgATwBVAC0AWAA2ADEAXABZAGkAegBoAG8AdTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoS+zrcsK7iVnQRlaDE/qNC2SUDqnp0xuafOTv576qSv8JsbFxeP+khDPnP+Bpoli/ui35es2xOKv/oC8YFCQ0YbiwjkCzK0L03yBwiAW5W9K93EMQHrTI80GIC/ll/qhBuvDJDAUE2gOwQDOeq73zI60UAqo2IPg9LBOUY8ozEkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCYnpnEz7ZF5GxEa56pADnmHYcFHZsU8nEcCp2gU8Fnjkr2Frg5J3IazTs/LyOcAJcHQi5N6IkEioAVrEBnC4EFe372LuwuOOpr61AMzRvpTKZThvVKI7s42q9SWWWFxoXDItRMVyQxygwp8fNE3rJZr1RaDNkBV2madTY43S85Rw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

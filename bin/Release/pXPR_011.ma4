@@ -1,0 +1,400 @@
+@551656AS34@
+SnapGene File
+267|SnapGene
+212
+25|pXPR_011
+27|0
+222|1
+33|8395
+236|525886601
+237|525893303
+26|1209
+28|0
+219|0
+220|1
+221|1
+29|0
+30|0
+217|0
+31|0
+32|1
+255
+224|SnapVector
+50
+256
+224|SnapVector
+50
+1001|0
+45
+51|4
+52|Puro-GFP
+53|1
+55|194
+56|519
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|Factor Xa site
+53|0
+55|2435
+56|2446
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|M13 rev
+53|0
+54|common sequencing primer, one of multiple similar variants
+55|6029
+56|6045
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|lac operator
+53|0
+54|The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-??-D-thiogalactopyranoside (IPTG).
+55|6005
+56|6021
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|M13 fwd
+53|0
+54|common sequencing primer, one of multiple similar variants
+55|3280
+56|3296
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|T3 promoter
+53|0
+54|promoter for bacteriophage T3 RNA polymerase
+55|6066
+56|6084
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|T7 promoter
+53|0
+54|promoter for bacteriophage T7 RNA polymerase
+55|3252
+56|3270
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|CAP binding site
+53|0
+54|CAP binding activates transcription in the presence of cAMP.
+55|5931
+56|5952
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|lac promoter
+53|0
+54|promoter for the E. coli lac operon
+55|5973
+56|5990
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|F2A
+53|0
+54|Eukaryotic ribosomes fail to insert a peptide bond between the Gly and Pro residues, yielding separate polypeptides.
+55|1155
+56|1220
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|AmpR promoter
+53|0
+55|3919
+56|4023
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|cPPT/CTS
+53|0
+54|central polypurine tract and central termination sequence of HIV-1
+55|8226
+56|8343
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|SV40 poly(A) signal
+53|0
+54|SV40 polyadenylation signal
+55|2935
+56|3056
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|HIV-1 ??
+53|0
+54|packaging signal of human immunodeficiency virus type 1
+55|6566
+56|6691
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|SV40 ori
+53|0
+54|SV40 origin of replication
+55|3096
+56|3231
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|5' LTR (truncated)
+53|0
+54|truncated 5' long terminal repeat (LTR) from HIV-1
+55|6339
+56|6519
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|RSV promoter
+53|0
+54|Rous sarcoma virus enhancer/promoter
+55|6112
+56|6338
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|RRE
+53|0
+54|The Rev response element (RRE) of HIV-1 allows for Rev-dependent mRNA export from the nucleus to the cytoplasm.
+55|7184
+56|7417
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|3' LTR (??U3)
+53|0
+54|self-inactivating& 3' long terminal repeat (LTR) from HIV-1
+55|2624
+56|2857
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|U6 promoter
+53|0
+54|RNA polymerase III promoter for human U6 snRNA
+55|7824
+56|8064
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|f1 ori
+53|0
+54|f1 bacteriophage origin of replication; arrow indicates direction of (+) strand synthesis
+55|3438
+56|3893
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|hPGK promoter
+53|1
+54|human phosphoglycerate kinase 1 promoter
+55|5
+56|7
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|ori
+53|0
+54|high-copy-number ColE1/pMB1/pBR322/pUC origin of replication
+55|5055
+56|5643
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|WPRE
+53|0
+54|woodchuck hepatitis virus& posttranscriptional regulatory element
+55|1964
+56|2552
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|EGFP
+53|0
+54|mammalian codon-optimized
+55|1227
+56|1229
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+45
+51|4
+52|AmpR
+53|0
+54|confers resistance to ampicillin, carbenicillin, and related antibiotics
+55|4093
+56|4884
+57|0
+281|1
+282|1
+283|1
+284|1
+50
+205
+37|0
+38|0
+39|0
+40|0
+250
+248|Synthetic
+248|ConfirmedExperimentally: 0
+248|Description: test description
+248|test des
+248|
+248|
+248|Created: 2015.2.23
+248|LastModified: 2016.3.21
+248|CreatedBy: Yizhou Joseph He
+248|SequenceClass: UNA
+248|TransformedInto: unspecified
+248|Comments: test common
+248|test1
+248|test2
+248|
+248|
+248|
+248|
+50
+1024|-1
+24
+209|cccgggttgcgccttttccaaggcagccctgggtttgcgcagggacgcggctgctctgggcgtggttccgggaaacgcagcggcgccgaccctgggtctcgcacattcttcacgtccgttcgcagcgtcacccggatcttcgccgctacccttgtgggccccccggcgacgcttcctgctccgcccctaagtcgggaaggttccttgcggttcgcggcgtgccggacgtgacaaacggaagccgcacgtctcactagtaccctcgcagacggacagcgccagggagcaatggcagcgcgccgaccgcgatgggctgtggccaatagcggctgctcagcagggcgcgccgagagcagcggccgggaaggggcggtgcgggaggcggggtgtggggcggtagtgtgggccctgttcctgcccgcgcggtgttccgcattctgcaagcctccggagcgcacgtcggcagtcggctccctcgttgaccgaatcaccgacctctctccccagggggatccaccatgaccgagtacaagcccaccgtgcgcctcgccacccgcgacgacgtgcccagggccgtccgcaccctcgccgccgctttcgccgactaccccgccacccgccacaccgtcgatcccgaccgccacatcgagcgggtcaccgagctgcaagaactcttcctcacccgcgtcgggctcgacatcggcaaggtgtgggtcgctgacgacggcgccgcagtggctgtctggaccacacccgagagcgtcgaagctggggcggtgttcgccgagatcggccctcgcatggccgagttgagcggttcccggctggccgctcagcaacagatggaaggcctcctggctccacaccggcccaaggagcccgcatggttcctggccaccgtcggcgtctctcccgaccaccagggcaagggtctgggcagcgccgtcgtgctccccggagtggaggctgccgagcgcgccggggtgcccgccttcctgga
+209|gacctccgcaccccgcaacctccccttctacgagcggctcggcttcaccgtcaccgccgacgtggaggtgcccgaaggaccacgcacctggtgcatgacccgcaagcccggtgccctgcagggatctggcgaagccagacacaaacagaaaattgtgaaacagactttgaattttgaccttctcaagttggcgggagacgtggagtccaacccagggcccgctagcatggtgagcaagggcgaggagctgttcaccggggtggtgcccatcctggtcgagctggacggcgacgtaaacggccacaagttcagcgtgtccggcgagggcgagggcgatgccacctacggcaagctgaccctgaagttcatctgcaccaccggcaagctgcccgtgccctggcccaccctcgtgaccaccctgacctacggcgtgcagtgcttcagccgctaccccgaccacatgaagcagcacgacttcttcaagtccgccatgcccgaaggctacgtccaggagcgcaccatcttcttcaaggacgacggcaactacaagacccgcgccgaggtgaagttcgagggcgacaccctggtgaaccgcatcgagctgaagggcatcgacttcaaggaggacggcaacatcctggggcacaagctggagtacaactacaacagccacaacgtctatatcatggccgacaagcagaagaacggcatcaaggtgaacttcaagatccgccacaacatcgaggacggcagcgtgcagctcgccgaccactaccagcagaacacccccatcggcgacggccccgtgctgctgcccgacaaccactacctgagcacccagtccgccctgagcaaagaccccaacgagaagcgcgatcacatggtcctgctggagttcgtgaccgccgccgggatcactctcggcatggacgagctgtacaagtcctaacgcgttaagtcgacaatcaacctctggattacaaaatttgtgaaagattga
+209|ctggtattcttaactatgttgctccttttacgctatgtggatacgctgctttaatgcctttgtatcatgctattgcttcccgtatggctttcattttctcctccttgtataaatcctggttgctgtctctttatgaggagttgtggcccgttgtcaggcaacgtggcgtggtgtgcactgtgtttgctgacgcaacccccactggttggggcattgccaccacctgtcagctcctttccgggactttcgctttccccctccctattgccacggcggaactcatcgccgcctgccttgcccgctgctggacaggggctcggctgttgggcactgacaattccgtggtgttgtcggggaaatcatcgtcctttccttggctgctcgcctgtgttgccacctggattctgcgcgggacgtccttctgctacgtcccttcggccctcaatccagcggaccttccttcccgcggcctgctgccggctctgcggcctcttccgcgtcttcgccttcgccctcagacgagtcggatctccctttgggccgcctccccgcgtcgactttaagaccaatgacttacaaggcagctgtagatcttagccactttttaaaagaaaaggggggactggaagggctaattcactcccaacgaagacaagatctgctttttgcttgtactgggtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagcagtacgtatagtagttcatgtcatcttattattcagtatttataacttgcaaagaaatgaatatcagagagtgagaggaacttgtttattgcagcttataatggttacaaataaagcaatagcatcacaaatttcacaaataaa
+209|gcatttttttcactgcattctagttgtggtttgtccaaactcatcaatgtatcttatcatgtctggctctagctatcccgcccctaactccgcccatcccgcccctaactccgcccagttccgcccattctccgccccatggctgactaattttttttatttatgcagaggccgaggccgcctcggcctctgagctattccagaagtagtgaggaggcttttttggaggcctagggacgtacccaattcgccctatagtgagtcgtattacgcgcgctcactggccgtcgttttacaacgtcgtgactgggaaaaccctggcgttacccaacttaatcgccttgcagcacatccccctttcgccagctggcgtaatagcgaagaggcccgcaccgatcgcccttcccaacagttgcgcagcctgaatggcgaatgggacgcgccctgtagcggcgcattaagcgcggcgggtgtggtggttacgcgcagcgtgaccgctacacttgccagcgccctagcgcccgctcctttcgctttcttcccttcctttctcgccacgttcgccggctttccccgtcaagctctaaatcgggggctccctttagggttccgatttagtgctttacggcacctcgaccccaaaaaacttgattagggtgatggttcacgtagtgggccatcgccctgatagacggtttttcgccctttgacgttggagtccacgttctttaatagtggactcttgttccaaactggaacaacactcaaccctatctcggtctattcttttgatttataagggattttgccgatttcggcctattggttaaaaaatgagctgatttaacaaaaatttaacgcgaattttaacaaaatattaacgcttacaatttaggtggcacttttcggggaaatgtgcgcggaacccctatttgtttatttttctaaatacattcaaatatgtatccgctcatgagacaataaccctgataaatgcttc
+209|aataatattgaaaaaggaagagtatgagtattcaacatttccgtgtcgcccttattcccttttttgcggcattttgccttcctgtttttgctcacccagaaacgctggtgaaagtaaaagatgctgaagatcagttgggtgcacgagtgggttacatcgaactggatctcaacagcggtaagatccttgagagttttcgccccgaagaacgttttccaatgatgagcacttttaaagttctgctatgtggcgcggtattatcccgtattgacgccgggcaagagcaactcggtcgccgcatacactattctcagaatgacttggttgagtactcaccagtcacagaaaagcatcttacggatggcatgacagtaagagaattatgcagtgctgccataaccatgagtgataacactgcggccaacttacttctgacaacgatcggaggaccgaaggagctaaccgcttttttgcacaacatgggggatcatgtaactcgccttgatcgttgggaaccggagctgaatgaagccataccaaacgacgagcgtgacaccacgatgcctgtagcaatggcaacaacgttgcgcaaactattaactggcgaactacttactctagcttcccggcaacaattaatagactggatggaggcggataaagttgcaggaccacttctgcgctcggcccttccggctggctggtttattgctgataaatctggagccggtgagcgtgggtctcgcggtatcattgcagcactggggccagatggtaagccctcccgtatcgtagttatctacacgacggggagtcaggcaactatggatgaacgaaatagacagatcgctgagataggtgcctcactgattaagcattggtaactgtcagaccaagtttactcatatatactttagattgatttaaaacttcatttttaatttaaaaggatctaggtgaagatcctttttgataatctcatgaccaaaatcccttaacg
+209|tgagttttcgttccactgagcgtcagaccccgtagaaaagatcaaaggatcttcttgagatcctttttttctgcgcgtaatctgctgcttgcaaacaaaaaaaccaccgctaccagcggtggtttgtttgccggatcaagagctaccaactctttttccgaaggtaactggcttcagcagagcgcagataccaaatactgttcttctagtgtagccgtagttaggccaccacttcaagaactctgtagcaccgcctacatacctcgctctgctaatcctgttaccagtggctgctgccagtggcgataagtcgtgtcttaccgggttggactcaagacgatagttaccggataaggcgcagcggtcgggctgaacggggggttcgtgcacacagcccagcttggagcgaacgacctacaccgaactgagatacctacagcgtgagctatgagaaagcgccacgcttcccgaagggagaaaggcggacaggtatccggtaagcggcagggtcggaacaggagagcgcacgagggagcttccagggggaaacgcctggtatctttatagtcctgtcgggtttcgccacctctgacttgagcgtcgatttttgtgatgctcgtcaggggggcggagcctatggaaaaacgccagcaacgcggcctttttacggttcctggccttttgctggccttttgctcacatgttctttcctgcgttatcccctgattctgtggataaccgtattaccgcctttgagtgagctgataccgctcgccgcagccgaacgaccgagcgcagcgagtcagtgagcgaggaagcggaagagcgcccaatacgcaaaccgcctctccccgcgcgttggccgattcattaatgcagctggcacgacaggtttcccgactggaaagcgggcagtgagcgcaacgcaattaatgtgagttagctcactcattaggcaccccaggctttacactttatgcttccggctcgtatgttgtgt
+209|ggaattgtgagcggataacaatttcacacaggaaacagctatgaccatgattacgccaagcgcgcaattaaccctcactaaagggaacaaaagctggagctgcaagcttaatgtagtcttatgcaatactcttgtagtcttgcaacatggtaacgatgagttagcaacatgccttacaaggagagaaaaagcaccgtgcatgccgattggtggaagtaaggtggtacgatcgtgccttattaggaaggcaacagacgggtctgacatggattggacgaaccactgaattgccgcattgcagagatattgtatttaagtgcctagctcgatacataaacgggtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacttgaaagcgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacggcaagaggcgaggggcggcgactggtgagtacgccaaaaattttgactagcggaggctagaaggagagagatgggtgcgagagcgtcagtattaagcgggggagaattagatcgcgatgggaaaaaattcggttaaggccagggggaaagaaaaaatataaattaaaacatatagtatgggcaagcagggagctagaacgattcgcagttaatcctggcctgttagaaacatcagaaggctgtagacaaatactgggacagctacaaccatcccttcagacaggatcagaagaacttagatcattatataatacagtagcaaccctctattgtgtgcatcaaaggatagagataaaagacaccaaggaagctttagacaagatagaggaagagcaa
+209|aacaaaagtaagaccaccgcacagcaagcggccgctgatcttcagacctggaggaggagatatgagggacaattggagaagtgaattatataaatataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtggtgcagagagaaaaaagagcagtgggaataggagctttgttccttgggttcttgggagcagcaggaagcactatgggcgcagcgtcaatgacgctgacggtacaggccagacaattattgtctggtatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgttgcaactcacagtctggggcatcaagcagctccaggcaagaatcctggctgtggaaagatacctaaaggatcaacagctcctggggatttggggttgctctggaaaactcatttgcaccactgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaatcacacgacctggatggagtgggacagagaaattaacaattacacaagcttaatacactccttaattgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaattagataaatgggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattcataatgatagtaggaggcttggtaggtttaagaatagtttttgctgtactttctatagtgaatagagttaggcagggatattcaccattatcgtttcagacccacctcccaaccccgaggggacccagagagggcctatttcccatgattccttcatatttgcatatacgatacaaggctgttagagagataattagaattaatttgactgtaaacacaaagatattagtacaaaatacgtgacgtagaaagtaataatttcttgggtagtttgcagttttaaaattatgttttaaaatggactat
+209|catatgcttaccgtaacttgaaagtatttcgatttcttggctttatatatcttgtggaaaggacgaaacaccggtgaaccgcatcgagctgagtttaagagctatgctggaaacagcatagcaagtttaaataaggctagtccgttatcaacttgaaaaagtggcaccgagtcggtgcttttttgaattctagatcttgagacaaatggcagtattcatccacaattttaaaagaaaaggggggattggggggtacagtgcaggggaaagaatagtagacataatagcaacagacatacaaactaaagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagcagagatccactttggcgccggctcgaggggg
+210
+207

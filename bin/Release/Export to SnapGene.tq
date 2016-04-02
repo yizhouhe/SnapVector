@@ -1,0 +1,6 @@
+[ToolUnitShortcut]
+Target=C:\Program Files (x86)\SnapGene Viewer\SnapGene Viewer.exe
+Description=Save Sequence without feature to Snap Gene therefore allow snap gene to automatically search for feature.
+Command=%1
+InputType=3
+

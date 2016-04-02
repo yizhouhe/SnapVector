@@ -1,0 +1,14 @@
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.exe.config
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.exe
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.pdb
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.xml
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.Resources.resources
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.OpenFile.resources
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.vbproj.GenerateResource.Cache
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.exe
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.xml
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.pdb
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.exe.manifest
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\bin\Debug\SnapVector.application
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.exe.manifest
+C:\Users\Yizhou\Documents\Visual Studio 2015\Yizhou-X61\Workplace\SnapVector\SnapVector\obj\Debug\SnapVector.application
